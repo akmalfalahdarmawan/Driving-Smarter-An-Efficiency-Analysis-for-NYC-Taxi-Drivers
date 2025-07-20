@@ -1,4 +1,4 @@
-<img src="background.jpeg" alt="NYC Taxi" style="width:100%; height:auto;"/>
+![NYC_TLC_Geen_Taxi_Driver-Main](background.jpeg)
 
 # 🚖 NYC Taxi Trip Efficiency Analysis
 
