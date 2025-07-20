@@ -1,6 +1,6 @@
 <img src="background.jpeg" alt="NYC Taxi" style="width:100%; height:auto;"/>
 
-# 🚖 NYC Taxi Trip Efficiency Analysis
+# 🚖 NYC Taxi Trip Efficiency Analysis For Driver
 
 ## 📌 Overview
 This project explores ways to **optimize net profitability** for NYC taxi drivers using the **NYC TLC Trip Record dataset**.  
